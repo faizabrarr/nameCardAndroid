@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Name Card</string>
+    <string name="full_name">Muhammad Faiz Abrar Fatah</string>
+    <string name="title">Android Developer Wanna Be</string>
+    <string name="contactPhone">+62 888 777 666</string>
+    <string name="contactIg">IG @faizabrarr</string>
+    <string name="contactEmail">faizabrar112@gmail.com</string>
+</resources>
